@@ -1,8 +1,8 @@
+# git-started
 
+A toy repo for demonstrating stuff about how to use git
 
-
-
-# How I created this
+## How I created this
 
 ```
 $ cd /some/place/where/I/keep/my/git/repos
