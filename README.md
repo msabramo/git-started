@@ -2,7 +2,20 @@
 
 A toy repo for demonstrating stuff about how to use git
 
+## How to clone this
+
+1. Make sure you have git installed. If on Windows, download and install [Git
+   for Windows](https://gitforwindows.org).
+
+2. Open a terminal or Git Bash shell and do:
+
+```
+git clone git@github.com:msabramo/git-started.git
+```
+
 ## How I created this
+
+If you want to replicate what I did, here's what I did:
 
 ```
 $ cd /some/place/where/I/keep/my/git/repos
